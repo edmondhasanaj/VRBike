@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bae66290f9d8eaf4c83352d4d1b556ed
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elianto
+  fontNames:
+  - Elianto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1c062cefc7b3742449d9bdcd1e9cd597, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

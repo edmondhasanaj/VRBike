@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="Device Name"
+        android:id="@+id/paired_device_name"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:text="00:00:00:00:00:00"
+        android:id="@+id/paired_device_mac"
+        android:textAlignment="center"/>
+</LinearLayout>

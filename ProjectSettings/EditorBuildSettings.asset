@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/tga_test.unity
+    guid: d4a16ae46601944b6868c26bf772e6bd
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/bike_bluetooth_test.unity
+    guid: a11f5b91ce264834a9f2656713741ec4
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Packages/SimpleTown/DemoScene/SimpleTown_DemoScene.unity
+    guid: 21ba8959b0b9c5e41889da424bb00b0b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/intro_scene.unity
+    guid: 933bc5b007fbe6040885a25b00b94ace
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 639e26e4fce335a45b371bad0fedb849
+  - enabled: 1
+    path: Assets/Scenes/bike_physics_test.unity
+    guid: d4dc88684ecc2684ca157853a1e77d52
+  - enabled: 0
+    path: Assets/Packages/GoogleVR/Demos/Scenes/HelloVR.unity
+    guid: bb36d2905dc634f1c9eecb35beecaca8
+  m_configObjects: {}
